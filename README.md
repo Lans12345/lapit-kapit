@@ -6,4 +6,4 @@ A new Flutter project.
 
 Project Lapit-Kapit by Team USWAG
 
-This project is created in Flutter and can be run by opening the folding then running the main.dart file
+This project is created in Flutter and will run just by opening the "lib" folder then running the "main.dart" file
